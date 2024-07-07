@@ -1,7 +1,7 @@
 # CAPSTONE-FINAL
 
-#Arsh Kandola
-#July 2024
+# Arsh Kandola
+# July 2024
 
 # https://www.overleaf.com/read/jzwyfppgqzjn#d7da46
 
