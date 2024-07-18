@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+stats
+sklearn.preprocessing
+StandardScaler
+matplotlib.pyplot
+sklearn.model_selection
+sklearn.metrics
+mean_absolute_error
+seaborn
