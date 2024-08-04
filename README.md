@@ -60,4 +60,6 @@ python3 -m pip install -r requirements.txt
 # Dataset
 The data is from Kaggle and can be downloaded from the link below: 
 https://www.kaggle.com/datasets/abecklas/fifa-world-cup
-
+https://www.pbs.org/newshour/nation/what-really-causes-home-field-advantage-and-why-its-on-the-decline
+https://www.chicagobooth.edu/review/home-field-advantage-facts-and-fiction
+https://www.deseret.com/sports/2023/10/6/23787371/is-home-court-advantage-real/#:~:text=A%202008%20Harvard%20study%20on,up%20less%20of%20a%20fight.
