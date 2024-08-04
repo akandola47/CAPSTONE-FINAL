@@ -1,5 +1,5 @@
 # CAPSTONE-FINAL
-
+# World Cup Matches
 # Arsh Kandola
 # July 2024
 
@@ -20,3 +20,4 @@ Jupyter Notebook
 # Dataset
 The data is from Kaggle and can be downloaded from the link below: 
 https://www.kaggle.com/datasets/abecklas/fifa-world-cup
+
